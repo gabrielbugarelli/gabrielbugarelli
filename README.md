@@ -1,5 +1,5 @@
 ### What's up guys!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 😎🚀🚀
-## I'm Gabriel Fonseca Mendes
+## I'm Gabriel Fonseca
 - I live from  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" width="20px"> 
 - I'm a computer science student 💻
 - I'm a frontend developer 👨‍💻
@@ -26,15 +26,11 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"></code>
 
 ## My Github Status:
-
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbugarelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbugarelli&layout=compact&langs_count=16&theme=tokyonight"/> <br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbugarelli&layout=compact&langs_count=16&theme=tokyonight"/>
  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
 </div>
-
-
-
 
 <!--
 **gabrielbugarelli/gabrielbugarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
