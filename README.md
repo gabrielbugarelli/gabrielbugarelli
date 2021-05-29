@@ -1,6 +1,6 @@
 ### What's up guys!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 😎🚀🚀
 ## I'm Gabriel Fonseca
-- I live from  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" width="20px"> 
+- I live in 🇧🇷
 - I'm a computer science student 💻
 - I'm a frontend developer 👨‍💻
 <div>
