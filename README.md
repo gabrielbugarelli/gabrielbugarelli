@@ -3,14 +3,12 @@
 - I live from  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" width="20px"> 
 - I'm a computer science student 💻
 - I'm a frontend developer 👨‍💻
-
-## Connect with me:
 <div>
   <a href="https://www.linkedin.com/in/gabriel-fonseca-8b377a163/" target="_blank">
-    <img alt="Gabriel Linkedin" height="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" >
+    <img alt="Gabriel Linkedin" height="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" >
   </a>
   <a href="https://www.instagram.com/gabrielbugarelli/" target="_blank">
-    <img alt="Gabriel Instagram" height="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-128.png" />
+    <img alt="Gabriel Instagram" height="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-128.png" />
   </a>
 </div>
 
