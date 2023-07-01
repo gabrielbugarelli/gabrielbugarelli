@@ -4,7 +4,7 @@
 - I'm a computer science student 💻
 - I'm a frontend developer 👨‍💻
 <div>
-  <a href="https://www.linkedin.com/in/gabriel-fonseca-8b377a163/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielbugarelli/" target="_blank">
     <img alt="Gabriel Linkedin" height="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" >
   </a>
   <a href="https://www.instagram.com/gabrielbugarelli/" target="_blank">
