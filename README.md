@@ -1,4 +1,6 @@
 ### What's up guys!! 😎🚀🚀
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## I'm Gabriel Fonseca
 - I live in <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" width="20px"> 
 - I'm a Jr of life 💻
@@ -18,7 +20,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
-## My skills:
+## My skills: ⤵️
 <code><img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png"></code>
 <code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
 <code><img height="40" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png"></code>
@@ -64,14 +66,3 @@
 <!--
 **gabrielbugarelli/gabrielbugarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
