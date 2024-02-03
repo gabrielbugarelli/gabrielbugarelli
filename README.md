@@ -1,15 +1,21 @@
 ### What's up guys!! 😎🚀🚀
 ## I'm Gabriel Fonseca
 - I live in <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" width="20px"> 
-- I'm a computer science student 💻
-- I'm a frontend developer 👨‍💻
+- I'm a Jr of life 💻
+- I'm a full stack web developer 👨‍💻
 <div>
-  <a href="https://www.linkedin.com/in/gabrielbugarelli/" target="_blank">
-    <img alt="Gabriel Linkedin" height="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" >
-  </a>
-  <a href="https://www.instagram.com/gabrielbugarelli/" target="_blank">
-    <img alt="Gabriel Instagram" height="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-128.png" />
-  </a>
+   <p align="left">
+  💌 Feel free to get in touch: ⤵️
+</p>
+
+<a href="https://www.linkedin.com/in/gabrielbugarelli/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://wa.link/14syi7" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<a href="https://www.instagram.com/gabrielbugarelli/" title="Instagram" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 ## My skills:
@@ -27,11 +33,33 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"></code>
 
 ## My Github Status:
-<div align="center">
+<div align="center" margin-bottom="10px">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gabrielbugarelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbugarelli&layout=compact&langs_count=16&theme=tokyonight"/>
- <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=gabrielbugarelli&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/gabrielbugarelli/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 
 <!--
 **gabrielbugarelli/gabrielbugarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
