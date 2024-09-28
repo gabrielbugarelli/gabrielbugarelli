@@ -40,18 +40,6 @@
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbugarelli&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=gabrielbugarelli&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
 <div align="center">
   <h3><b>Profile Visitor Count</b></h3>
 </div>
