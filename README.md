@@ -21,11 +21,10 @@
 
 **Backend:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; margin-bottom: 15px;">
-  <img width="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js">
   <img width="60" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="Java">
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/2048px-C_Sharp_Logo_2023.svg.png" alt="C#">
+  <img width="60" src="https://img.icons8.com/color/512/spring-logo.png" alt="Spring">
+  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/2048px-C_Sharp_Logo_2023.svg.png" alt="C#">
   <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL">
-  <img width="70" src="https://web.keyrus.com/hubfs/Amazon-Web-Services-AWS-Logo.png" alt="AWS">
 </div>
 
 **Frontend:**  
@@ -37,9 +36,11 @@
 
 **Tools:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; margin-bottom: 15px;">
-  <img width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git">
-  <img width="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode">
-  <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma">
+  <img width="70" src="https://web.keyrus.com/hubfs/Amazon-Web-Services-AWS-Logo.png" alt="AWS">
+  <img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git">
+  <img width="60" src="https://miro.medium.com/v2/resize:fit:601/1*e8u6teTHyalPejIBauj4Jw.png" alt="Docker">
+  <img width="40" src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" alt="RabbitMQ">
+  <img width="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode">
 </div>
 
 ---
