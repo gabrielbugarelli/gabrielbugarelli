@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="400px" align="right">
-
    ### Hello there! 👋 I'm Gabriel!
    
    Aspiring Full Stack Developer from Brazil <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" width="20">
@@ -17,6 +15,7 @@
 ---
 
 ### 🛠️ Tech Stack
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="400px" align="right">
 
 **Backend:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; margin-bottom: 15px;">
