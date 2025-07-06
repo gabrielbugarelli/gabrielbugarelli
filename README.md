@@ -3,7 +3,7 @@
 
    <h3>Hello there! 👋 I'm Gabriel!</h2>
    
-   Aspiring Full Stack Developer from Brazil 🇧🇷🇧🇷🇧🇷
+   Aspiring Full Cycle Developer from Brazil 🇧🇷🇧🇷🇧🇷
    
    <a href="https://www.linkedin.com/in/gabrielbugarelli/" title="LinkedIn" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
