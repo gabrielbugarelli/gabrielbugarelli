@@ -1,7 +1,9 @@
+
 <div align="center">
-   ### Hello there! 👋 I'm Gabriel!
+
+   <h3>Hello there! 👋 I'm Gabriel!</h2>
    
-   Aspiring Full Stack Developer from Brazil <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" width="20">
+   Aspiring Full Stack Developer from Brazil 🇧🇷🇧🇷🇧🇷
    
    <a href="https://www.linkedin.com/in/gabrielbugarelli/" title="LinkedIn" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -44,10 +46,19 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" margin-bottom="10px">
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielbugarelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbugarelli&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gabrielbugarelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    style="height: 200px; vertical-align: middle; margin-right: 30px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbugarelli&layout=compact&langs_count=16&theme=tokyonight"
+    alt="Top Languages"
+    style="height: 200px; vertical-align: middle;"
+  />
 </div>
+
 
 <div align="center">
   <h3>🚀 Profile Visitors</h3>
