@@ -30,6 +30,7 @@
 **Frontend:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; margin-bottom: 15px;">
   <img width="50" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript">
+  <img width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind">
   <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
   <img width="50" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js">
 </div>
