@@ -51,6 +51,7 @@
 <div align="center">
   <h3>🚀 Profile Visitors</h3>
   <img src="https://komarev.com/ghpvc/?username=gabrielbugarelli&style=for-the-badge">
+   <br><br>
 </div>
 
 <div align="center">
