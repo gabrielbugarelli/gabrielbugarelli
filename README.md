@@ -1,59 +1,61 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" alt="Gabriel Bugarelli — software developer building APIs, interfaces and creative tools" width="100%" />
+  <img src="./assets/hero-dark.svg" alt="Gabriel Bugarelli — software developer building cartographic animation tools" width="100%" />
 </picture>
 
 <p align="center">
-  <strong>Software developer focused on building useful systems, thoughtful interfaces, and creative tooling.</strong>
+  <strong>Software developer building purposeful systems and creative tools.</strong>
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> ·
-  <a href="#engineering-stack">Engineering stack</a> ·
+  <a href="#cartorig">CartoRig</a> ·
+  <a href="#engineering">Engineering</a> ·
   <a href="https://www.linkedin.com/in/gabrielbugarelli/">LinkedIn</a>
 </p>
 
 ---
 
-### About
+### About me
 
-I'm Gabriel, a Brazil-based developer working across backend services, web applications, and developer tools. I enjoy turning complex ideas into software with clear architecture and purposeful interfaces.
+I'm Gabriel, a software developer based in Brazil. I work across web applications, backend architecture, and native software tooling, with an interest in making complex workflows feel simple.
 
-My interests span API design, full-stack development, and tools that connect engineering with creative workflows.
+Right now, my main focus is **CartoRig**.
 
-### Selected work
+<a id="cartorig"></a>
 
-**[Userman](https://github.com/gabrielbugarelli/userman-project)**  
-*Full-stack application · React · TypeScript · NestJS*  
-A user-management project with a React interface and a NestJS API using Prisma and SQLite. Includes API documentation through Swagger.
+## CartoRig
 
-**[FastDelivery API](https://github.com/gabrielbugarelli/fastdelivery-api)**  
-*Backend · C# · ASP.NET Core*  
-An API design for sales and product management, including role-based permissions for administrators, managers, and sales representatives.
+**Cartographic animation tooling for DaVinci Resolve.**
 
-**[Focusy](https://github.com/gabrielbugarelli/focusy)**  
-*Frontend · React · TypeScript*  
-A productivity timer with session history and local persistence.
+[**Explore the CartoRig repository**](https://github.com/gabrielbugarelli/cartorig)
 
-### Engineering stack
+CartoRig is a work-in-progress project exploring a more direct way to create and control animated maps and geographic overlays inside DaVinci Resolve, with an emphasis on the **Edit** page.
 
-| Area | Technologies |
-| --- | --- |
-| Backend & APIs | C#, ASP.NET Core, Node.js, NestJS, Java, Spring |
-| Frontend | TypeScript, React, Next.js, Tailwind CSS |
-| Data & infrastructure | PostgreSQL, SQLite, Docker, Git |
-| Current exploration | Native plugin development, cartographic tools, offline-first workflows |
+**What I'm working toward**
 
-### Currently building
+- **Native editing workflow** — map generation and overlays designed around DaVinci Resolve's editing experience.
+- **Geographic controls** — search and select regions, with independent styling for map elements.
+- **Offline-first mapping** — local geodata using the Natural Earth dataset, without a required online service.
+- **Animation controls** — editable movement, timing, and camera behavior for geographic storytelling.
 
-**[CartoRig](https://github.com/gabrielbugarelli/cartorig)** — exploring offline-first cartographic animation tooling for DaVinci Resolve and native editing workflows. This is an early-stage project; the public repository and its documentation are still being prepared.
+*Status: in development. These are project goals and areas of ongoing work, not a list of finished or released features. Public documentation and releases are still being prepared.*
+
+---
+
+<a id="engineering"></a>
+
+### Engineering
+
+I build with tools chosen for the problem rather than a fixed stack.
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `C#` · `ASP.NET Core` · `Java` · `Spring` · `PostgreSQL` · `Docker` · `Git`
+
+Currently exploring native plugin development, offline geospatial data, and creative software integration through CartoRig.
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielbugarelli/">LinkedIn</a> ·
-  <a href="https://github.com/gabrielbugarelli?tab=repositories">Repositories</a>
+  <a href="https://github.com/gabrielbugarelli/cartorig"><strong>CartoRig on GitHub</strong></a> ·
+  <a href="https://www.linkedin.com/in/gabrielbugarelli/">LinkedIn</a>
 </p>
-
-<p align="center"><sub>Designed with local SVG assets. No third-party counters, borrowed illustrations, or external image services.</sub></p>
